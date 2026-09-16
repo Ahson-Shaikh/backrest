@@ -149,7 +149,9 @@ services:
 
 ### Easypanel
 
-[Easypanel](https://easypanel.io/) can deploy Backrest with one click using its [official template](https://easypanel.io/templates/backrest), which runs the Docker image above with persistent volumes for you.
+[Easypanel](https://easypanel.io/) is a self-hosted Docker deployment platform. It has a one-click Easypanel template for Backrest, which runs the Docker image above with persistent volumes configured automatically.
+
+[![Deploy on Easypanel](https://easypanel.io/img/deploy-on-easypanel-40.svg)](https://easypanel.io/templates/backrest)
 
 ## Windows
 
